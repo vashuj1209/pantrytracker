@@ -1,7 +1,3 @@
-Sure! Here's a comprehensive README for your pantry management application:
-
----
-
 # Pantry Management Application
 
 A simple and elegant pantry management application built with Next.js, Material UI, and Firebase. The app allows users to manage their inventory, including adding, updating, and removing items, and provides a pie chart visualization of the inventory data.
