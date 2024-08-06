@@ -106,10 +106,6 @@ Remember to replace this with proper security rules for production.
 
 1. Type in the search bar to filter items based on name or description.
 
-## Screenshots
-
-Include screenshots of your application to showcase its features.
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
